@@ -175,7 +175,6 @@ NIKE Collection
 </li>
 <a class="nav-link" href="https://jd-354.github.io/Cpr/"><i class="fas fa-fire"></i>Envios</a>
 
-</li>
 
 </ul>
 
