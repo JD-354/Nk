@@ -170,7 +170,7 @@ NIKE Collection
 
 <li class="nav-item">
 
-<a class="nav-link" href="https://websim.ai/c/hXzlqD3cGy5T181oH"><i class="fas fa-running"></i> Deportivos</a>
+<a class="nav-link" href="https://jd-354.github.io/DPT/"><i class="fas fa-running"></i> Deportivos</a>
 
 </li>
 
