@@ -170,7 +170,7 @@ NIKE Collection
 
 <li class="nav-item">
 
-<a class="nav-link" href="https://zapatostyle.com/nike/deportivos"><i class="fas fa-running"></i> Deportivos</a>
+<a class="nav-link" href="https://websim.ai/c/hXzlqD3cGy5T181oH"><i class="fas fa-running"></i> Deportivos</a>
 
 </li>
 
