@@ -134,7 +134,7 @@ padding: 5px 10px; border-radius: 5px;
 
 <div class="container">
 
-<a class="navbar-brand" href="https://zapatostyle.com">
+<a class="navbar-brand" href="">
 
 <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff" alt="NIKE Logo" width="40" height="40" class="d-inline-block align-text-top me-2">
 
@@ -164,7 +164,7 @@ NIKE Collection
 
 <li class="nav-item">
 
-<a class="nav-link" href="https://zapatostyle.com/nike/nuevos"><i class="fas fa-fire"></i> Nuevos Lanzamientos</a>
+<a class="nav-link" href="https://jd-354.github.io/N/"><i class="fas fa-fire"></i> Nuevos Lanzamientos</a>
 
 </li>
 
