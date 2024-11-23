@@ -156,11 +156,10 @@ NIKE Collection
 
 <ul class="navbar-nav me-auto">
 
+<li class="nav-item ">
+<a class="nav-link" href="https://jd-354.github.io/Z/">Inicio</a>
+              </li>
 <li class="nav-item">
-
-<a class="nav-link" href="https://zapatostyle.com/nike"><i class="fas fa-home"></i> Inicio</a>
-
-</li>
 
 <li class="nav-item">
 
