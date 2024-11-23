@@ -155,7 +155,8 @@ NIKE Collection
 <div class="collapse navbar-collapse" id="navbarNav">
 
 <ul class="navbar-nav me-auto">
-
+<li class="nav-item ">
+ 
 <li class="nav-item ">
 <a class="nav-link" href="https://jd-354.github.io/Z/">Inicio</a>
               </li>
